@@ -41,4 +41,6 @@ I compared the created application with the official Choreographe program.
 The testing showed, that the application I created is faster both in terms of creating a
 sequence of commands and in terms of the speed of sending commands to the robot.
 
+Keywords: Robot, NAO, Direct mode, Python 2.7, SDK, Application for Windows, Choreographe
+
 Link: https://theses.cz/id/g2frgq/Strobl_-_Ovladani_robota_NAO_v_primem_rezimu.pdf
