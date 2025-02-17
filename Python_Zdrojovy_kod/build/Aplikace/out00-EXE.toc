@@ -1,0 +1,9 @@
+('C:\\Users\\strobladm\\Desktop\\NAO_aplikace\\Python_Zdrojovy_kod\\dist\\Aplikace.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1620633823L)
